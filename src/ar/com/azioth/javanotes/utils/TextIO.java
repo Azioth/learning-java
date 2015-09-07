@@ -1,4 +1,4 @@
-package ar.com.azioth.utils;
+package ar.com.azioth.javanotes.utils;
 
 
 import java.io.*;
