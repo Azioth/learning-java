@@ -1,4 +1,4 @@
-package ar.com.azioth.learn.exercises;
+package ar.com.azioth.javanotes.learn.exercises;
 
 /**
  * Created by Sebastian Sandri on 18/05/2015.

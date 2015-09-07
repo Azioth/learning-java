@@ -1,5 +1,5 @@
-package ar.com.azioth.learn.exercises;
-import ar.com.azioth.utils.*;
+package ar.com.azioth.javanotes.learn.exercises;
+
 /**
  * Created by Sebastian Sandri on 16/05/2015.
  */
