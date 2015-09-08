@@ -31,6 +31,10 @@ public class CapitalizeInput {
             }
             prevCh = ch;
         }
+
+
+
+
         System.out.println("Capitalized input: " + stringBuilder.toString());
     }
 
