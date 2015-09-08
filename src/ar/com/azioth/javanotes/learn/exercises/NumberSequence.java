@@ -1,6 +1,6 @@
-package ar.com.azioth.learn.exercises;
+package ar.com.azioth.javanotes.learn.exercises;
 
-import ar.com.azioth.utils.TextIO;
+import ar.com.azioth.javanotes.utils.TextIO;
 
 public class NumberSequence {
 

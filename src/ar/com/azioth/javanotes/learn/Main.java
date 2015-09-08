@@ -1,4 +1,4 @@
-package ar.com.azioth.learn;
+package ar.com.azioth.javanotes.learn;
 
 public class Main {
 
