@@ -1,4 +1,4 @@
-package ar.com.azioth.javanotes.learn.exercises;
+package ar.com.azioth.javanotes.learn.chapter4;
 
 /**
  * Created by Azioth on 25/08/2015.

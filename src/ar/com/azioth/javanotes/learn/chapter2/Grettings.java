@@ -1,4 +1,4 @@
-package ar.com.azioth.javanotes.learn.exercises;
+package ar.com.azioth.javanotes.learn.chapter2;
 
 import ar.com.azioth.javanotes.utils.TextIO;
 
