@@ -11,6 +11,6 @@ public class HelloWorld {
 		Printer<BWCartridge> printer = new Printer<BWCartridge>(true, "MY PRINTER", new BWCartridge());
 		
 		printer.printUsingCartridge(new ColorCartridge(), "Hi!");
-		printer.print(1);
+		printer.print(-10);
 	}
 }
